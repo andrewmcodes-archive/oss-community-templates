@@ -12,6 +12,6 @@ A simple collection of markdown files that you likely have to commonly use on yo
 
 ## TODO
 
- - [ ] readmes
- - [ ] examples
- - [ ] resources
+- readmes
+- examples
+- resources
