@@ -3,8 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: bug report ;B
 labels: bug
-assignees: ''
-
+assignees: ""
 ---
 
 # Bug Report
@@ -32,7 +31,7 @@ If applicable, add screenshots to help explain your problem.
 
 ## Device
 
-*please complete the following information if applicable*
+_please complete the following information if applicable_
 
 ### Desktop
 

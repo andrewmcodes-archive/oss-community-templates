@@ -1,4 +1,4 @@
-# Type of PR (feature, enhancement, bug fix, etc.)
+# Type of PR (feature, bug fix, misc)
 
 ## Description
 
@@ -10,6 +10,7 @@ Fixes #(issue)
 
 - [ ] My code follows the style guidelines of this project
 - [ ] The build is passing
-- [ ] I have tested my feature using *applicable test method*
+- [ ] I have tested my feature using the _applicable test method_
+- [ ] I have added `;F`, `;B`, or `;M` to the title to indicate what type of PR this is
 
 ## Screenshots
